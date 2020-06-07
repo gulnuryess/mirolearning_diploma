@@ -1,0 +1,20 @@
+This course aims to teach everyone the basics of programming computers using Python.
+ We cover the basics of how one constructs a program from a series of simple instructions in Python.
+ The course has no pre-requisites and avoids all but the simplest mathematics.
+ Anyone with moderate computer experience should be able to master the materials in this course.
+
+Variables and Expressions
+A value is one of the fundamental things — like a letter or a number — that a program manipulates. 
+Strings in Python can be enclosed in either single quotes (') or double quotes ("), or three of each (''' or """)
+
+These values are classified into different classes, or data types: 4 is an integer, and "Hello, World!" is a string, 
+so-called because it contains a string of letters. You (and the interpreter)
+ can identify strings because they are enclosed in quotation marks.The values we have
+ seen so far are 4 (the result when we added 2 + 2), and "Hello, World!".
+ Q:what result we will get for this : type("3.2")?
+<class 'str'>
+<class 'int'>
+Error
+<class 'float'>
+Q: what result we will get for this : type(3.2)?
+<class 'float'>
